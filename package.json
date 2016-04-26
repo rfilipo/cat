@@ -1,0 +1,24 @@
+{
+  "name": "cat",
+  "version": "0.0.1",
+  "description": "Canvas Animation Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rfilipo/cat.git"
+  },
+  "keywords": [
+    "canvas",
+    "animation",
+    "javascript",
+    "library"
+  ],
+  "author": "Monsenhor <filipo@kobkob.org>",
+  "license": "GPLA",
+  "bugs": {
+    "url": "https://github.com/rfilipo/cat/issues"
+  }
+}
